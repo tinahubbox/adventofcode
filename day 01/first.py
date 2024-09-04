@@ -28,4 +28,4 @@ with open('input_a.txt') as file:
         print(f"Value found: {value}")
         sum += value
 
-print(f"Somma totale: {sum}")
+print(f"Somma totale : {sum}")
